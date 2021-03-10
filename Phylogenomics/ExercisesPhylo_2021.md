@@ -11,9 +11,7 @@ These exercises focus on the most critical steps of a phylogenomic analysis, wit
   <img  align="right" src="marsupials.png" alt="" width=200 title="">
 </figure>
 
-##Exercise 1: Sequence alignment
-
-####Exercise 1A
+### Exercise 1: Sequence alignment
 
 a) Open MEGA and open the file marsupials.fasta via File > Open A File, and selecting Align. Have a look at the sequences and notice that they have slightly different lengths.
 
@@ -75,7 +73,7 @@ This would lead to a very large estimated genetic divergence between this sequen
 </details>
 
 
-##Exercise 2: Tree building
+### Exercise 2: Tree building
 
 Now that we have a sequence alignment, we are ready to perform phylogenetic analyses. We will perform phylogenetic analysis using maximum likelihood. Our aim will be to make estimates of the tree and branch lengths. This method uses an explicit model of molecular evolution.
 
@@ -125,7 +123,7 @@ Some branches have high support, but most ancient or "deep" branches have very l
 </details>
 
 
-##Exercise 3: Substitution models
+### Exercise 3: Substitution models
 
 In order to conduct a reliable phylogenetic analyses, we need to identify the best-fitting model of nucleotide substitution for the data set. A key purpose of substitution models is to account for multiple substitutions.
 
@@ -179,7 +177,7 @@ While some branches have different length, the relationships are identical regar
 </details>
 
 
-##Exercise 4: Gene trees
+### Exercise 4: Gene trees
 
 Population-level processes can lead gene trees to vary among them. In some cases, this is a dominant form of variation and can be modelled using the multi-species coalescent.
 
